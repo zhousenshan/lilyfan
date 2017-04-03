@@ -1,0 +1,3 @@
+先确定自己电脑名称是否为大写
+安装 otp_win64_18.3.exe    rabbitmq-server-3.6.9.exe
+不需要安装Tomcat，直接用单元测试运行MessageTest.java即可
